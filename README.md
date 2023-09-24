@@ -14,7 +14,7 @@
 
 ### Instalación de Tkinder (Intefaces graficas en python)
 
->pip install PythonTurtle
+>pip install tk
 
 ### Instalación de PyInstaller (ejecutable en windows)
 

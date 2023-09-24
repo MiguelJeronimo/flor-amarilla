@@ -23,5 +23,7 @@
 ### Como crear ejecutables en windows
 > pyinstaller your_program.py
 
+### Para ejcutar el programa favor de abrir el archivo flower.exe que se encuentra dentro de la carpeta "dist" :)
+
 
 
